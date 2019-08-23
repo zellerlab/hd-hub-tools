@@ -12,6 +12,6 @@ The material contains introductions for novices to the Unix Shell, Python and gi
 
 [Here](https://github.com/malvikasharan/2017-06-19-Software_Carpentry_Berlin) you can find a copious collection of course materials for the Software Carpentry workshop taken place in Würzburg 2017-09-04/2017-09-05
 #### Contact
-[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)
-[Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)
+[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)<br/>
+[Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)<br/>
 Toby Hodges ([toby.hodges@embl.de](mailto:toby.hodges@embl.de))
