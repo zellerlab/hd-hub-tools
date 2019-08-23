@@ -6,6 +6,6 @@ These slides theoretically explain how to make your data analysis workflows more
 #### Open Slides
 [Open Slides](https://goo.gl/mWPN1P)
 #### Contact
-[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)
-[Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)
+[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)<br/>
+[Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)<br/>
 Toby Hodges ([toby.hodges@embl.de](mailto:toby.hodges@embl.de))
