@@ -10,7 +10,7 @@
 Research &amp; Development, ViroQuant-CellNetworks RNAi Screening Facility, BIOQUANT
 
 
-
+#### Description
 I'm an experienced microscopist as well in super-resolving as in high-throughput/high-content techniques. At the moment, I'm focusing on the development of methods for combining and advancing these and other different microscope techniques for multi-scale screening experiments.
 
 
