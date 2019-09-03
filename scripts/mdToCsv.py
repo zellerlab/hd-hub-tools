@@ -2,17 +2,17 @@ import os
 import re
 import csv
 
-csv.register_dialect('myDialect', escapechar='@', delimiter = '`', quoting=csv.QUOTE_NONE)
+csv.register_dialect('myDialect', escapechar='$', delimiter = '`', quoting=csv.QUOTE_NONE)
 
-with open("tools.csv", "w+", newline='', encoding='utf-8') as csvFile:
+with open(os.pardir + "/csv/tools.csv", "w+", newline='', encoding='utf-8') as csvFile:
     row = ['title', 'description', 'Homepage', 'Relevant Publications', 'Contact', 'Relevant Papers', 'Funding', 'Development', 'BioTools', 'Bioconda', 'Type of Material', 'Bioconductor', 'Open Slides', 'Open Course Material', 'category', 'Version']
     writer = csv.writer(csvFile, dialect = 'myDialect')
     writer.writerow(row)
     
-    folders = ['de.nbi-epigenetics', 'Human Genetics And Genomics', 'Online Material', 'Systematic Phenotyping']
+    folders = ['de.nbi-epigenetics', 'HumanGeneticsAndGenomics', 'OnlineMaterial', 'SystematicPhenotyping']
     for foldername in folders:
-        for filename in os.listdir(foldername):
-            with open(foldername + '/' + filename, encoding='utf-8') as file:
+        for filename in os.listdir(os.pardir + '/' + foldername):
+            with open(os.pardir + '/' + foldername + '/' + filename, encoding='utf-8') as file:
                 title = ''
                 description = ''
                 homepage = ''

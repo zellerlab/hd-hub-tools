@@ -2,9 +2,9 @@ import os
 import re
 import csv
 
-csv.register_dialect('myDialect', escapechar='@', delimiter = '`', quoting=csv.QUOTE_NONE)
+csv.register_dialect('myDialect', escapechar='$', delimiter = '`', quoting=csv.QUOTE_NONE)
 
-with open("tools.csv", "r", encoding='utf-8') as csvFile:
+with open(os.pardir + "/csv/tools.csv", "r", encoding='utf-8') as csvFile:
     reader = csv.reader(csvFile, dialect = 'myDialect')
     
     fields = []
@@ -18,17 +18,17 @@ with open("tools.csv", "r", encoding='utf-8') as csvFile:
             description = row[1]
             category = row[14]
             
-            if not os.path.exists("generated_" + category):
-                os.makedirs("generated_" + category)
-            with open("generated_" + category + "/" + title + ".md", "w+", encoding='utf-8') as mdFile:
+            if not os.path.exists(os.pardir + "/generated_" + category):
+                os.makedirs(os.pardir + "/generated_" + category)
+            with open(os.pardir + "/generated_" + category + "/" + title + ".md", "w+", encoding='utf-8') as mdFile:
                 mdFile.write("# " + title + "\n")
-                mdFile.write(description + "\n")
+                mdFile.write(description)
                 
                 j = 0
                 for field in row:
                     if(j >= 2 and field != '' and field != category):
                         mdFile.write("#### " + fields[j] + "\n")
-                        mdFile.write(field + "\n")
+                        mdFile.write(field)
                         
                     j = j + 1
                     
