@@ -5,5 +5,6 @@ The "One Touch Pipeline" is a comprehensive framework for NGS project  organizat
 [https://otp.dkfz.de/otp/](https://otp.dkfz.de/otp/)
 
 #### Contact
-OTP developer team (dmg-service <at> dkfz-heidelberg <dot> de)<br/>Jürgen Eils (j.eils <at> dkfz <dot> de)
+OTP developer team (dmg-service <at> dkfz-heidelberg <dot> de)<br/>
+Jürgen Eils (j.eils <at> dkfz <dot> de)
 

@@ -8,5 +8,6 @@ GenomeCRISPR is a database for high-throughput screening experiments performed b
 Rauscher B, Heigwer F, Breinig M, Winter J, Boutros M. GenomeCRISPR - a database for high-throughput CRISPR/Cas9 screens. Nucleic Acids Res. 2017;45(D1):D679-D686.
 
 #### Contact
-Michael Boutros (m.boutros <at> dkfz <dot> de)<br/>Ulrike Hardeland (u.hardeland <at> dkfz <dot> de)
+Michael Boutros (m.boutros <at> dkfz <dot> de)<br/>
+Ulrike Hardeland (u.hardeland <at> dkfz <dot> de)
 

@@ -5,5 +5,6 @@ Workflows and tools for analysis of microscopy image data and cellular phenotypi
 [https://github.com/BMCV/galaxy-image-analysis](https://github.com/BMCV/galaxy-image-analysis)
 
 #### Contact
-[PD Dr. Karl Rohr](http://congo.embl.de/hd-hub/pd-dr-karl-rohr/)<br/>[Thomas Wollmann](http://congo.embl.de/hd-hub/thomas-wollmann-2/)
+[PD Dr. Karl Rohr](http://congo.embl.de/hd-hub/pd-dr-karl-rohr/)<br/>
+[Thomas Wollmann](http://congo.embl.de/hd-hub/thomas-wollmann-2/)
 

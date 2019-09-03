@@ -140,6 +140,19 @@ with open(os.pardir + "/csv/tools.csv", "w+", newline='', encoding='utf-8') as c
                 row = [title, description, homepage, relevant_publications, contact, relevant_papers, funding, development, biotools, bioconda, type_of_material, bioconductor, open_slides, open_course_material, foldername, version]
                 writer.writerow(row)
                 
+                i = 0
+                while True:
+                    if(i >= len(row)):
+                        break
+                    
+                    if(row[i].find('<br/>\n') == -1):
+                        row[i] = row[i].replace('<br/>', '<br/>\n')
+                        row[i] = row[i].replace('<br />', '<br/>\n')
+                    
+                    i = i + 1
+            
+                writer.writerow(row)
+                
                 file.close()
                 
     csvFile.close()
