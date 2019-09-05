@@ -5,6 +5,6 @@ DESeq2 is an R/Bioconductor package for differential expression analysis of high
 [http://bioconductor.org/packages/release/bioc/html/DESeq2.html](http://bioconductor.org/packages/stats/bioc/DESeq2.html)
 
 #### Contact
-Wolfgang Huber (wolfgang.huber <at> embl <dot> de)
+Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)
 

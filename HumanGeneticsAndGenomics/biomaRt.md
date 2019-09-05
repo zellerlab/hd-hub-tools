@@ -5,6 +5,6 @@ Provides an R interface to BioMart services. In particular this is the most wide
 [https://bioconductor.org/packages/biomaRt/](https://bioconductor.org/packages/biomaRt/)
 
 #### Contact
-Wolfgang Huber (wolfgang.huber <at> embl <dot> de)
+Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)
 

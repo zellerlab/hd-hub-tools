@@ -5,6 +5,6 @@ End-to-end gene-level RNA-Seq differential expression workflow using Bioconducto
 [http://www.bioconductor.org/help/workflows/rnaseqGene/](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 #### Contact
-Wolfgang Huber (wolfgang.huber <at> embl <dot> de)
+Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)
 

@@ -1,5 +1,4 @@
 # BiQAnalyzer HiMod
-
 __BiQ Analyzer HiMod__ is the major upgrade of the popular [BiQAnalyzer HT](http://biq-analyzer-ht.bioinf.mpi-inf.mpg.de/) tool specifically designed to aid the analysis of high-throughput bisulfite amplicon sequencing data. BiQ Analyzer HiMod currently allows to process an amount of bisulfite, oxidative bisulfite, Tet assisted bisulfite, chemical modification-assisted bisulfite or formyl chemical modification-assisted bisulfite sequencing reads obtained in one or several sequencing experiments.
 
 #### Homepage

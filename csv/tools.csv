@@ -1,16 +1,5 @@
 title`description`Homepage`Relevant Publications`Contact`Relevant Papers`Funding`Development`BioTools`Bioconda`Type of Material`Bioconductor`Open Slides`Open Course Material`category`Version
-BiQAnalyzer HiMod`$
-__BiQ Analyzer HiMod__ is the major upgrade of the popular [BiQAnalyzer HT](http://biq-analyzer-ht.bioinf.mpi-inf.mpg.de/) tool specifically designed to aid the analysis of high-throughput bisulfite amplicon sequencing data. BiQ Analyzer HiMod currently allows to process an amount of bisulfite, oxidative bisulfite, Tet assisted bisulfite, chemical modification-assisted bisulfite or formyl chemical modification-assisted bisulfite sequencing reads obtained in one or several sequencing experiments.$
-$
-`[http://biq-analyzer-himod.bioinf.mpi-inf.mpg.de/](http://biq-analyzer-himod.bioinf.mpi-inf.mpg.de/)$
-$
-`Lutsik P., Feuerbach L., Arand J., Lengauer T., Walter J. and Bock C (2011) __BiQ Analyzer HT: locus-specific analysis of DNA methylation by high-throughput bisulfite sequencing.__ <i>Nucleic Acids Research</i> ([Full text](http://nar.oxfordjournals.org/content/early/2011/05/11/nar.gkr312.full)).$
-$
-`Pavlo Lutsik (plutsik <at> mpi-inf.mpg <dot> de)$
-$
-``````````de.nbi-epigenetics`
-BiQAnalyzer HiMod`$
-__BiQ Analyzer HiMod__ is the major upgrade of the popular [BiQAnalyzer HT](http://biq-analyzer-ht.bioinf.mpi-inf.mpg.de/) tool specifically designed to aid the analysis of high-throughput bisulfite amplicon sequencing data. BiQ Analyzer HiMod currently allows to process an amount of bisulfite, oxidative bisulfite, Tet assisted bisulfite, chemical modification-assisted bisulfite or formyl chemical modification-assisted bisulfite sequencing reads obtained in one or several sequencing experiments.$
+BiQAnalyzer HiMod`__BiQ Analyzer HiMod__ is the major upgrade of the popular [BiQAnalyzer HT](http://biq-analyzer-ht.bioinf.mpi-inf.mpg.de/) tool specifically designed to aid the analysis of high-throughput bisulfite amplicon sequencing data. BiQ Analyzer HiMod currently allows to process an amount of bisulfite, oxidative bisulfite, Tet assisted bisulfite, chemical modification-assisted bisulfite or formyl chemical modification-assisted bisulfite sequencing reads obtained in one or several sequencing experiments.$
 $
 `[http://biq-analyzer-himod.bioinf.mpi-inf.mpg.de/](http://biq-analyzer-himod.bioinf.mpi-inf.mpg.de/)$
 $
@@ -28,36 +17,7 @@ $
 `Pavlo Lutsik (plutsik <at> mpi-inf.mpg <dot> de)$
 $
 ``````````de.nbi-epigenetics`
-BiQAnalyzer HT`__BiQAnalyzer HT__ is the major upgrade of the popular [BiQAnalyzer](http://biq-analyzer.bioinf.mpi-inf.mpg.de) tool specifically designed to aid the analysis of high-throughput bisulfite amplicon sequencing data. BiQAnalyzer HT currently allows to process an amount of bisulfite sequencing reads obtained in one or several bisulfite sequencing experiments.$
-$
-`[http://biq-analyzer-ht.bioinf.mpi-inf.mpg.de/](http://biq-analyzer-ht.bioinf.mpi-inf.mpg.de/)$
-$
-`Becker D., Lutsik P., Ebert P., Lengauer T. and Walter J. (2014) __BiQ Analyzer HiMod: an interactive software tool for high-throughput locus-specific analysis of 5-methylcytosine and its oxidized derivatives.__ Nucleic Acids Research [Full text](http://nar.oxfordjournals.org/content/early/2014/05/29/nar.gku457.long).$
-$
-`Pavlo Lutsik (plutsik <at> mpi-inf.mpg <dot> de)$
-$
-``````````de.nbi-epigenetics`
-BiQAnalyzer`$
-__BiQ Analyzer__ is a software tool for easy visualization and quality control of DNA methylation data $
-from bisulfite sequencing.$
-$
-$
-`$
-[http://biq-analyzer.bioinf.mpi-inf.mpg.de](http://biq-analyzer.bioinf.mpi-inf.mpg.de)$
-$
-$
-`$
-Bock, C., Reither, S., Mikeska, T., Paulsen, M., Walter, J. and Lengauer, T., $
-__BiQ Analyzer: visualization and quality control for DNA methylation data from bisulfite sequencing.__$
-(2005)Bioinformatics, 21(21), pp.4067-4068.$
-$
-$
-`$
-Christoph Bock (biq-analyzer <at> bioproject <dot> de)$
-$
-``````````de.nbi-epigenetics`
-BiQAnalyzer`$
-__BiQ Analyzer__ is a software tool for easy visualization and quality control of DNA methylation data $
+BiQAnalyzer`__BiQ Analyzer__ is a software tool for easy visualization and quality control of DNA methylation data $
 from bisulfite sequencing.$
 $
 $
@@ -84,24 +44,6 @@ $
 `deepblue <at> mpi-inf.mpg <dot> de$
 $
 ``````````de.nbi-epigenetics`
-DeepBlue Epigenomic Data Server`The __DeepBlue Epigenomic Data Server__ provides a data access hub for large collections of epigenomic data. It organizes the data using controlled vocabularies and ontologies.$
-$
-`[http://deepblue.mpi-inf.mpg.de](http://deepblue.mpi-inf.mpg.de)$
-$
-`Albrecht, F., List, M., Bock, C., &amp; Lengauer, T. (2016). __DeepBlue epigenomic data server: programmatic data retrieval and analysis of epigenome region sets.__ <em>Nucleic Acids Research.</em>$
-$
-`deepblue <at> mpi-inf.mpg <dot> de$
-$
-``````````de.nbi-epigenetics`
-EpiExplorer`__EpiExplorer__ is a web tool that allows you to use large reference epigenome datasets for your own analysis without complex scripting or laborous preprocessing. EpiExplorer integrates multiple epigenetic and genetic annotations and makes them explorable via an interactive interface.$
-$
-`[http://epiexplorer.mpi-inf.mpg.de](http://epiexplorer.mpi-inf.mpg.de)$
-$
-`Halachev, K., Bast, H., Albrecht, F., Lengauer, T., &amp; Bock, C. (2012). __EpiExplorer: live exploration and global analysis of large epigenomic datasets.__<em> Genome Biology</em>, 13(10), R96.$
-$
-`epiexplorer <at> mpi-inf.mpg <dot> de$
-$
-``````````de.nbi-epigenetics`
 EpiExplorer`__EpiExplorer__ is a web tool that allows you to use large reference epigenome datasets for your own analysis without complex scripting or laborous preprocessing. EpiExplorer integrates multiple epigenetic and genetic annotations and makes them explorable via an interactive interface.$
 $
 `[http://epiexplorer.mpi-inf.mpg.de](http://epiexplorer.mpi-inf.mpg.de)$
@@ -120,21 +62,6 @@ $
 `rnbeads <at> mpi-inf.mpg <dot> de$
 $
 ``````````de.nbi-epigenetics`
-RnBeads`R package for comprehensive analysis of DNA methylation data obtained by Infinium microarrays and bisulfite sequencing protocols. RnBeads implements a series of QC steps and comprehensively outputs a number of analyses levels as annotated and readable hypertext report. __RnBeads__ is the standard preparation tool for DNA-methylation data obtained by DEEP (German Epigenome Programme).$
-$
-`[http://rnbeads.mpi-inf.mpg.de/](http://rnbeads.mpi-inf.mpg.de/)$
-$
-`Assenov, Y., Müller, F., Lutsik, P., Walter, J., Lengauer, T., &amp; Bock, C. (2014).__ Comprehensive analysis of DNA methylation data with RnBeads. __<em>Nature Methods</em>, 11(11), 1138–1140.$
-$
-`rnbeads <at> mpi-inf.mpg <dot> de$
-$
-``````````de.nbi-epigenetics`
-ACESeq`ACEseq is a method to detect somatic copy number variations from matching tumor/control WGS data pairs. In addition to total copy numbers it provides allele-specific copy numbers as well as ploidy and tumor cell content estimates for the tumor sample.$
-$
-```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)<br/>$
-Kortine Kleinheinz (k.kleinheinz <at> dkfz <dot> de)$
-$
-``````````HumanGeneticsAndGenomics`
 ACESeq`ACEseq is a method to detect somatic copy number variations from matching tumor/control WGS data pairs. In addition to total copy numbers it provides allele-specific copy numbers as well as ploidy and tumor cell content estimates for the tumor sample.$
 $
 ```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)<br/>$
@@ -152,30 +79,11 @@ $
 ```[https://bioconda.github.io/recipes/alfred/README.html](https://bioconda.github.io/recipes/alfred/README.html)$
 $
 `````HumanGeneticsAndGenomics`
-Alfred`Alfred is a comprehensive NGS alignment quality control method that supports commonly used QC metrics, RNA and DNA feature counting and flexible feature annotation.$
-$
-`[https://github.com/tobiasrausch/alfred](https://github.com/tobiasrausch/alfred)$
-$
-``rausch <at> embl <dot> de$
-$
-``Neither development nor maintenance funded by de.NBI.$
-$
-```[https://bioconda.github.io/recipes/alfred/README.html](https://bioconda.github.io/recipes/alfred/README.html)$
-$
-`````HumanGeneticsAndGenomics`
 biomaRt`Provides an R interface to BioMart services. In particular this is the most widely used programmatic access route to query EMBL-EBI’s Ensembl database.$
 $
 `[https://bioconductor.org/packages/biomaRt/](https://bioconductor.org/packages/biomaRt/)$
 $
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
-[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-biomaRt`Provides an R interface to BioMart services. In particular this is the most widely used programmatic access route to query EMBL-EBI’s Ensembl database.$
-$
-`[https://bioconductor.org/packages/biomaRt/](https://bioconductor.org/packages/biomaRt/)$
-$
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
+``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>$
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``````````HumanGeneticsAndGenomics`
@@ -183,27 +91,10 @@ BUTLER`Provides an R interface to BioMart services. In particular this is the mo
 $
 `[https://bioconductor.org/packages/biomaRt/](https://bioconductor.org/packages/biomaRt/)$
 $
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
+``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>$
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``````````HumanGeneticsAndGenomics`
-BUTLER`Provides an R interface to BioMart services. In particular this is the most widely used programmatic access route to query EMBL-EBI’s Ensembl database.$
-$
-`[https://bioconductor.org/packages/biomaRt/](https://bioconductor.org/packages/biomaRt/)$
-$
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
-[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-CESAM`Enables the discovery of oncogene activation events mediated by enhancer hijacking, via pan-cancer analyses.$
-$
-`[https://bitbucket.org/weischen/cesam](https://bitbucket.org/weischen/cesam)$
-$
-``Jan Korbel (korbel <at> embl <dot> de)$
-$
-`[Pan-cancer analysis of somatic copy-number alterations implicates IRS4 and IGF2 in enhancer hijacking.](https://www.ncbi.nlm.nih.gov/pubmed/?term=27869826)$
-$
-`````````HumanGeneticsAndGenomics`
 CESAM`Enables the discovery of oncogene activation events mediated by enhancer hijacking, via pan-cancer analyses.$
 $
 `[https://bitbucket.org/weischen/cesam](https://bitbucket.org/weischen/cesam)$
@@ -226,32 +117,11 @@ $
 `[https://bioconda.github.io/recipes/delly/README.html](https://bioconda.github.io/recipes/delly/README.html)$
 $
 `````HumanGeneticsAndGenomics`
-DELLY`Delly is a structural variant detection method for the discovery of germline and somatic genomic rearrangements. Delly can detect deletions, tandem duplications, inversions and translocations at single-nucleotide resolution in short-read massively parallel sequencing data.$
-$
-`[https://github.com/dellytools/delly](https://github.com/dellytools/delly)$
-$
-``rausch <at> embl <dot> de$
-$
-``Neither development nor maintenance funded by de.NBI.$
-$
-``[https://bio.tools/delly2](https://bio.tools/delly2)$
-$
-`[https://bioconda.github.io/recipes/delly/README.html](https://bioconda.github.io/recipes/delly/README.html)$
-$
-`````HumanGeneticsAndGenomics`
 DESeq2`DESeq2 is an R/Bioconductor package for differential expression analysis of high-throughput sequencing assays (incl. RNA-seq, ChIP-Seq, 4C-Seq, ribosome profiling, CLIP, metagenomics, HT-CRISPR screens) based on the Gamma-Poisson distribution.$
 $
 `[http://bioconductor.org/packages/release/bioc/html/DESeq2.html](http://bioconductor.org/packages/stats/bioc/DESeq2.html)$
 $
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
-[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-DESeq2`DESeq2 is an R/Bioconductor package for differential expression analysis of high-throughput sequencing assays (incl. RNA-seq, ChIP-Seq, 4C-Seq, ribosome profiling, CLIP, metagenomics, HT-CRISPR screens) based on the Gamma-Poisson distribution.$
-$
-`[http://bioconductor.org/packages/release/bioc/html/DESeq2.html](http://bioconductor.org/packages/stats/bioc/DESeq2.html)$
-$
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
+``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>$
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``````````HumanGeneticsAndGenomics`
@@ -259,23 +129,8 @@ DEXSeq`DEXSeq is an extension of DESeq for the analysis of alternative exon usag
 $
 `[http://bioconductor.org/packages/DEXseq/](http://bioconductor.org/packages/DEXseq/)$
 $
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
+``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>$
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-DEXSeq`DEXSeq is an extension of DESeq for the analysis of alternative exon usage. DESeq2 is an R/Bioconductor package for differential expression analysis of high-throughput sequencing assays (incl. RNA-seq, ChIP-Seq, 4C-Seq, ribosome profiling, CLIP, metagenomics, HT-CRISPR screens) based on the Gamma-Poisson distribution.$
-$
-`[http://bioconductor.org/packages/DEXseq/](http://bioconductor.org/packages/DEXseq/)$
-$
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
-[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-Gear`Gear is a genome analysis web server hosting applications for molecular biologists to analyze Sanger traces, design PCR primers and perform DNA sequence analyses.$
-$
-`[https://gear.embl.de](https://gear.embl.de/)$
-$
-``rausch <at> embl <dot> de$
 $
 ``````````HumanGeneticsAndGenomics`
 Gear`Gear is a genome analysis web server hosting applications for molecular biologists to analyze Sanger traces, design PCR primers and perform DNA sequence analyses.$
@@ -292,18 +147,6 @@ $
 ``Wolfgang Huber (whuber <at> embl <dot> de)$
 $
 ``````````HumanGeneticsAndGenomics`
-IHW`Independent hypothesis weighting (IHW) is a multiple testing procedure that increases power compared to commonly used alternatives for false discovery rate (FDR) control by assigning data-driven weights to each hypothesis.  The IHW software package provide a mechanism that allows the methodology to be applied to many different data types.$
-$
-`[http://bioconductor.org/packages/release/bioc/html/IHW.html](http://bioconductor.org/packages/release/bioc/html/IHW.html)$
-$
-``Wolfgang Huber (whuber <at> embl <dot> de)$
-$
-``````````HumanGeneticsAndGenomics`
-Indel calling pipeline`The indel pipeline detects high confidence indels (1-20 bp). The results are presented in an extensively annotated VCF file. The input of the pipeline are the aligned tumor and control bam files. To enable a fast quality assessment of functionally indels screen shots are taken of exotic high confidence indels.$
-$
-```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
-$
-``````````HumanGeneticsAndGenomics`
 Indel calling pipeline`The indel pipeline detects high confidence indels (1-20 bp). The results are presented in an extensively annotated VCF file. The input of the pipeline are the aligned tumor and control bam files. To enable a fast quality assessment of functionally indels screen shots are taken of exotic high confidence indels.$
 $
 ```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
@@ -314,20 +157,6 @@ $
 `[http://bioconductor.org/packages/release/bioc/html/IONiseR.html](http://bioconductor.org/packages/release/bioc/html/IONiseR.html)$
 $
 ``[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-IONiseR`IONiseR provides tools for the quality assessment of Oxford Nanopore MinION data. It extracts summary statistics from a set of fast5 files and can be used either before or after base calling. In addition to standard summaries of the read-types produced, it provides a number of plots for visualising metrics relative to experiment run time or spatially over the surface of a flowcell.$
-$
-`[http://bioconductor.org/packages/release/bioc/html/IONiseR.html](http://bioconductor.org/packages/release/bioc/html/IONiseR.html)$
-$
-``[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-Mechismo`Mechismo is a tool that allows rapid predictions of how genetic variants impact on biomolecular function. This is done by a pre-computed collection of protein-protein, protein-DNA/RNA, protein-chemical interactions of known three-dimensional structure mapped to proteomes from major model organisms. Users can input any number of variants to get a ranked list of genes and specific positions that have a functional impact on biomolecular interactions.</span>$
-$
-`[http://mechismo.russelllab.org/](http://mechismo.russelllab.org/)$
-$
-``[Prof. Dr. Rob Russell](http://congo.embl.de/hd-hub/prof-dr-rob-russell/)$
 $
 ``````````HumanGeneticsAndGenomics`
 Mechismo`Mechismo is a tool that allows rapid predictions of how genetic variants impact on biomolecular function. This is done by a pre-computed collection of protein-protein, protein-DNA/RNA, protein-chemical interactions of known three-dimensional structure mapped to proteomes from major model organisms. Users can input any number of variants to get a ranked list of genes and specific positions that have a functional impact on biomolecular interactions.</span>$
@@ -345,51 +174,22 @@ $
 Jürgen Eils (j.eils <at> dkfz <dot> de)$
 $
 ``````````HumanGeneticsAndGenomics`
-OTP`The $"One Touch Pipeline$" is a comprehensive framework for NGS project  organization and processing. The application provides support in all steps of this process, including data transfer from temporary to final  storage, execution of data quality monitoring programs, alignment of  reads to the reference genome and variant calling. It allows full  automatization, extended project administration, and full processing control for operators.$
-$
-`[https://otp.dkfz.de/otp/](https://otp.dkfz.de/otp/)$
-$
-``OTP developer team (dmg-service <at> dkfz-heidelberg <dot> de)<br/>$
-Jürgen Eils (j.eils <at> dkfz <dot> de)$
-$
-``````````HumanGeneticsAndGenomics`
-Pan-Cancer alignment workflow`The alignment workflow produces aligned bam files from fastq files. The user can choose between different versions of bwa. The default settings of the workflow are implemented after the ICGC PanCancer workflow. The pipeline also produces a rich set of quality values as well as coverage plots for each genome individually and combined ones if a tumor normal pair is processed.$
-$
-```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
-$
-``````````HumanGeneticsAndGenomics`
 Pan-Cancer alignment workflow`The alignment workflow produces aligned bam files from fastq files. The user can choose between different versions of bwa. The default settings of the workflow are implemented after the ICGC PanCancer workflow. The pipeline also produces a rich set of quality values as well as coverage plots for each genome individually and combined ones if a tumor normal pair is processed.$
 $
 ```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
 $
 ``````````HumanGeneticsAndGenomics`
 rhdf5 & Rhdf5lib`The rhdf5 and Rhdf5lib packages combine to provide an interface between HDF5 and R. The HDF5 file format provides the ability to store and access very large and/or complex datasets and a wide variety of metadata on mass storage (disk) in a completely portable manner. The rhdf5 package is thus suited for the exchange of large and/or complex datasets between R and other software package, and for letting R applications work on datasets that are larger than the available RAM.<br/>$
-$
 In particular HDF5 is being used to address the rapid growth in the size of single-cell datasets, and rhdf5 is a cornerstone to many existing analysis tools.$
 $
-`[https://www.bioconductor.org/packages/rhdf5/](https://www.bioconductor.org/packages/rhdf5/)$
+`[https://www.bioconductor.org/packages/rhdf5/](https://www.bioconductor.org/packages/rhdf5/)<br/>$
 [https://www.bioconductor.org/packages/Rhdf5lib/](https://www.bioconductor.org/packages/rhdf5/)$
 $
 ``[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``Continuing development, support, and maintenance funded by de.NBI.$
 $
-`[https://github.com/grimbough/rhdf5](https://github.com/grimbough/rhdf5)$
-[https://github.com/grimbough/Rhdf5lib](https://github.com/grimbough/Rhdf5lib)$
-$
-```````HumanGeneticsAndGenomics`
-rhdf5 & Rhdf5lib`The rhdf5 and Rhdf5lib packages combine to provide an interface between HDF5 and R. The HDF5 file format provides the ability to store and access very large and/or complex datasets and a wide variety of metadata on mass storage (disk) in a completely portable manner. The rhdf5 package is thus suited for the exchange of large and/or complex datasets between R and other software package, and for letting R applications work on datasets that are larger than the available RAM.<br/>$
-$
-In particular HDF5 is being used to address the rapid growth in the size of single-cell datasets, and rhdf5 is a cornerstone to many existing analysis tools.$
-$
-`[https://www.bioconductor.org/packages/rhdf5/](https://www.bioconductor.org/packages/rhdf5/)$
-[https://www.bioconductor.org/packages/Rhdf5lib/](https://www.bioconductor.org/packages/rhdf5/)$
-$
-``[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``Continuing development, support, and maintenance funded by de.NBI.$
-$
-`[https://github.com/grimbough/rhdf5](https://github.com/grimbough/rhdf5)$
+`[https://github.com/grimbough/rhdf5](https://github.com/grimbough/rhdf5)<br/>$
 [https://github.com/grimbough/Rhdf5lib](https://github.com/grimbough/Rhdf5lib)$
 $
 ```````HumanGeneticsAndGenomics`
@@ -397,41 +197,17 @@ RNA-seq end-to-end workflow`End-to-end gene-level RNA-Seq differential expressio
 $
 `[http://www.bioconductor.org/help/workflows/rnaseqGene/](http://www.bioconductor.org/help/workflows/rnaseqGene/)$
 $
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
-[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````HumanGeneticsAndGenomics`
-RNA-seq end-to-end workflow`End-to-end gene-level RNA-Seq differential expression workflow using Bioconductor packages. Starting from the FASTQ files, these are aligned to the reference genome, and a count matrix which tallies the number of RNA-seq reads/fragments within each gene for each sample is prepared. Performance of exploratory data analysis (EDA) for quality assessment and exploration of the relationship between samples, performance of differential gene expression analysis, and visual exploration of the results.$
-$
-`[http://www.bioconductor.org/help/workflows/rnaseqGene/](http://www.bioconductor.org/help/workflows/rnaseqGene/)$
-$
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
+``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>$
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``````````HumanGeneticsAndGenomics`
 Roddy`Roddy is a framework for large scale NGS processing pipelines on Petabyte scale. It is used for the management of workflows in the Pan-Cancer Analysis of Whole Genomes (PCAWG) project.$
 $
-`[https://github.com/eilslabs/Roddy/wiki](https://github.com/eilslabs/Roddy/wiki)$
+`[https://github.com/eilslabs/Roddy/wiki](https://github.com/eilslabs/Roddy/wiki)<br/>$
 [https://github.com/eilslabs/Roddy/wiki/Example-workflow](https://github.com/eilslabs/Roddy/wiki/Example-workflow)$
 $
-``[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
+``[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)<br/>$
 [Michael Heinold](http://congo.embl.de/hd-hub/michael-heinold/)$
-$
-``````````HumanGeneticsAndGenomics`
-Roddy`Roddy is a framework for large scale NGS processing pipelines on Petabyte scale. It is used for the management of workflows in the Pan-Cancer Analysis of Whole Genomes (PCAWG) project.$
-$
-`[https://github.com/eilslabs/Roddy/wiki](https://github.com/eilslabs/Roddy/wiki)$
-[https://github.com/eilslabs/Roddy/wiki/Example-workflow](https://github.com/eilslabs/Roddy/wiki/Example-workflow)$
-$
-``[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
-[Michael Heinold](http://congo.embl.de/hd-hub/michael-heinold/)$
-$
-``````````HumanGeneticsAndGenomics`
-SIDER`SIDER is a web-based resource that contains information on marketed medicines and their recorded adverse drug reactions. This information is extracted from public documents and package inserts. SIDER makes available side effect frequency, drug and side effect classifications as well as links to further information, for example drug–target relations. It currently covers associations between 5,868 side effects and 1,430 drugs.$
-$
-`[http://sideeffects.embl.de/](http://sideeffects.embl.de/)$
-$
-``[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)$
 $
 ``````````HumanGeneticsAndGenomics`
 SIDER`SIDER is a web-based resource that contains information on marketed medicines and their recorded adverse drug reactions. This information is extracted from public documents and package inserts. SIDER makes available side effect frequency, drug and side effect classifications as well as links to further information, for example drug–target relations. It currently covers associations between 5,868 side effects and 1,430 drugs.$
@@ -448,18 +224,6 @@ $
 ``[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)$
 $
 ``````````HumanGeneticsAndGenomics`
-SMART`SMART (Simple Modular Architecture Research Tool) is a web resource providing simple identification and extensive annotation of protein domains via sequence homology searches. It contains manually curated models for more than 1,200 protein domains. In its ‘Genomic’ mode, it annotates proteins from completely sequenced genomes of 2,031 species as a basis for their functional annotation. It provides flexible tools to visually explore protein domain architectures across sequences and organisms.$
-$
-`[http://smart.embl.de/](http://smart.embl.de/)$
-$
-``[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)$
-$
-``````````HumanGeneticsAndGenomics`
-SNV calling pipeline`The SNV pipeline creates a set of high confidence somatic SNVs. The pipeline takes a tumor and matched control bam file as input and returns a highly annotated VCF file. In addition the workflow produces plots that help to interpret both, the sample quality (e.g. if the sample is contaminated) as well as biology (e.g. if the sample shows kataegis).$
-$
-```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
-$
-``````````HumanGeneticsAndGenomics`
 SNV calling pipeline`The SNV pipeline creates a set of high confidence somatic SNVs. The pipeline takes a tumor and matched control bam file as input and returns a highly annotated VCF file. In addition the workflow produces plots that help to interpret both, the sample quality (e.g. if the sample is contaminated) as well as biology (e.g. if the sample shows kataegis).$
 $
 ```[Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)$
@@ -468,20 +232,6 @@ $
 STITCH`STITCH is a web-based resource to explore known and predicted interactions of chemicals and proteins. Chemicals are linked to other chemicals and proteins by evidence derived from experiments, databases and the literature. STITCH contains interactions between 300,000 small molecules and 2.6 million proteins from 1133 organisms.$
 $
 `[http://stitch.embl.de/](http://stitch.embl.de/)$
-$
-``[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)$
-$
-``````````HumanGeneticsAndGenomics`
-STITCH`STITCH is a web-based resource to explore known and predicted interactions of chemicals and proteins. Chemicals are linked to other chemicals and proteins by evidence derived from experiments, databases and the literature. STITCH contains interactions between 300,000 small molecules and 2.6 million proteins from 1133 organisms.$
-$
-`[http://stitch.embl.de/](http://stitch.embl.de/)$
-$
-``[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)$
-$
-``````````HumanGeneticsAndGenomics`
-STRING`STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is a database of known and predicted protein interactions in the form of direct physical or indirect functional associations, which currently cover 9,643,763 proteins from 2,031 organisms. Interaction data are derived from high-throughput experiments, genomic context, (conserved) coexpression, and the scientific literature. STRING quantitatively integrates interaction data from these sources and transfers information between organisms where applicable.$
-$
-`[http://string.embl.de/](http://string.embl.de/)$
 $
 ``[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)$
 $
@@ -500,38 +250,18 @@ $
 ``Wolfgang Huber (whuber <at> embl <dot> de)$
 $
 ``````````HumanGeneticsAndGenomics`
-TPP`Detecting the binding partners of a drug is one of the biggest challenges in drug research. Thermal Proteome Profiling (TPP) addresses this question by combining the cellular thermal shift assay concept with mass spectrometry based proteome-wide protein quantitation.  The analysis of such  experiments requires several data analytic and statistical modeling steps.   The package TPP facilitates this process by providing executable workflows that conduct all necessary steps to perform an analysis.$
-$
-`[http://bioconductor.org/packages/release/bioc/html/TPP.html](http://bioconductor.org/packages/release/bioc/html/TPP.html)$
-$
-``Wolfgang Huber (whuber <at> embl <dot> de)$
-$
-``````````HumanGeneticsAndGenomics`
 YAPSA`This package provides functions and routines for a supervised analysis of somatic signatures. In particular, functions to perform a signature analysis with known signatures (LCD = linear combination decomposition) and a signature analysis on stratified mutational catalogue (SMC = stratify mutational catalogue) are provided.$
 $
-`[https://bioconductor.org/packages/release/bioc/html/YAPSA.html ](https://bioconductor.org/packages/release/bioc/html/YAPSA.html)$
+`[https://bioconductor.org/packages/release/bioc/html/YAPSA.html](https://bioconductor.org/packages/release/bioc/html/YAPSA.html)$
 $
-`__Integration of genomics and histology revises diagnosis and enables effective therapy of refractory cancer of unknown primary with PDL1 amplification.__ (2016) Gröschel S, Bommer M, Hutter B, Budczies J, Bonekamp D, Heining C, Horak P, Fröhlich M, Uhrig S, Huebschmann D, Geörg C, Richter D, Pfarr N, Pfütze K, Wolf S, Schirmacher P, Jäger D, von Kalle C, Brors B, Glimm H, Weichert W, Stenzinger A, Fröhling S Cold Spring Harb Mol Case Stud, 2, 6, a001180$
-__Mutant KIT as Imatinib-Sensitive Target in Metastatic Sinonasal Carcinoma.__ (2016) Dieter SM, Heining C, Agaimy A, Huebschmann D, Bonekamp D, Hutter B, Ehrenberg KR, Fröhlich M, Schlesner M, Scholl C, Schlemmer HP, Wolf S, Mavratzas A, Jung CS, Gröschel S, Kalle CV, Eils R, Brors B, Penzel R, Kriegsmann M, Reuss DE, Schirmacher P, Ann Oncol, pii: mdw446.$
-$
-`Daniel Huebschmann (d.huebschmann <at> dkfz <dot> de)$
-$
-``````````HumanGeneticsAndGenomics`
-YAPSA`This package provides functions and routines for a supervised analysis of somatic signatures. In particular, functions to perform a signature analysis with known signatures (LCD = linear combination decomposition) and a signature analysis on stratified mutational catalogue (SMC = stratify mutational catalogue) are provided.$
-$
-`[https://bioconductor.org/packages/release/bioc/html/YAPSA.html ](https://bioconductor.org/packages/release/bioc/html/YAPSA.html)$
-$
-`__Integration of genomics and histology revises diagnosis and enables effective therapy of refractory cancer of unknown primary with PDL1 amplification.__ (2016) Gröschel S, Bommer M, Hutter B, Budczies J, Bonekamp D, Heining C, Horak P, Fröhlich M, Uhrig S, Huebschmann D, Geörg C, Richter D, Pfarr N, Pfütze K, Wolf S, Schirmacher P, Jäger D, von Kalle C, Brors B, Glimm H, Weichert W, Stenzinger A, Fröhling S Cold Spring Harb Mol Case Stud, 2, 6, a001180$
+`__Integration of genomics and histology revises diagnosis and enables effective therapy of refractory cancer of unknown primary with PDL1 amplification.__ (2016) Gröschel S, Bommer M, Hutter B, Budczies J, Bonekamp D, Heining C, Horak P, Fröhlich M, Uhrig S, Huebschmann D, Geörg C, Richter D, Pfarr N, Pfütze K, Wolf S, Schirmacher P, Jäger D, von Kalle C, Brors B, Glimm H, Weichert W, Stenzinger A, Fröhling S Cold Spring Harb Mol Case Stud, 2, 6, a001180<br/>$
 __Mutant KIT as Imatinib-Sensitive Target in Metastatic Sinonasal Carcinoma.__ (2016) Dieter SM, Heining C, Agaimy A, Huebschmann D, Bonekamp D, Hutter B, Ehrenberg KR, Fröhlich M, Schlesner M, Scholl C, Schlemmer HP, Wolf S, Mavratzas A, Jung CS, Gröschel S, Kalle CV, Eils R, Brors B, Penzel R, Kriegsmann M, Reuss DE, Schirmacher P, Ann Oncol, pii: mdw446.$
 $
 `Daniel Huebschmann (d.huebschmann <at> dkfz <dot> de)$
 $
 ``````````HumanGeneticsAndGenomics`
 An introduction to ChIP-seq analysis`This lecture introduces the basic concepts of ChIP-seq data analysis. Various approaches for quality control are discussed, as well as data normalization and peak calling.$
-<div style=$"position: relative; height: 0; padding-bottom: 75.0%;$"><iframe style=$"position: absolute; width: 100%; height: 100%; left: 0;$" src=$"https://www.youtube.com/embed/zwuUveGgmS0?ecver=2$" allowfullscreen=$"allowfullscreen$" width=$"480$" height=$"360$" frameborder=$"0$"></iframe></div>$
 $
-`````````````OnlineMaterial`
-An introduction to ChIP-seq analysis`This lecture introduces the basic concepts of ChIP-seq data analysis. Various approaches for quality control are discussed, as well as data normalization and peak calling.$
 <div style=$"position: relative; height: 0; padding-bottom: 75.0%;$"><iframe style=$"position: absolute; width: 100%; height: 100%; left: 0;$" src=$"https://www.youtube.com/embed/zwuUveGgmS0?ecver=2$" allowfullscreen=$"allowfullscreen$" width=$"480$" height=$"360$" frameborder=$"0$"></iframe></div>$
 $
 `````````````OnlineMaterial`
@@ -539,31 +269,13 @@ BiocWorkflowTools`The bioconductor authoring tool links the journal’s manuscri
 $
 `[https://bioconductor.org/packages/BiocWorkflowTools/](https://bioconductor.org/packages/BiocWorkflowTools/)$
 $
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
-[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````OnlineMaterial`
-BiocWorkflowTools`The bioconductor authoring tool links the journal’s manuscript management system with the Bioconductor nightly build system, thus enabling “continuous Integration”, automated quality control and guaranteed workflow functionality even as underlying resources and tools evolve. A package and tutorial publication are underway, and we have actively helped several authors from the community with workflow authoring.$
-$
-`[https://bioconductor.org/packages/BiocWorkflowTools/](https://bioconductor.org/packages/BiocWorkflowTools/)$
-$
-``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
+``Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>$
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``````````OnlineMaterial`
 F1000Research Channel for Bioconductor`The F1000Research Channel for R/Bioconductor-based workflows was established with support from HD-HuB personnel. These workflows are peer-reviewed academic articles, which increases quality and offers an additional incentive for their authors. The channel is well accepted by the international bioinformatics community.$
 $
-```Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
-[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````Publishing channel in F1000$
-$
-`[https://f1000research.com/channels/bioconductor](https://f1000research.com/channels/bioconductor)$
-$
-```OnlineMaterial`
-F1000Research Channel for Bioconductor`The F1000Research Channel for R/Bioconductor-based workflows was established with support from HD-HuB personnel. These workflows are peer-reviewed academic articles, which increases quality and offers an additional incentive for their authors. The channel is well accepted by the international bioinformatics community.$
-$
-```Wolfgang Huber (wolfgang.huber <at> embl <dot> de)$
+```Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>$
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``````Publishing channel in F1000$
@@ -573,15 +285,7 @@ $
 ```OnlineMaterial`
 Introduction into KNIME image analysis for life scientists`This course material intends to provide a basic introduction into the KNIME (image) data analytics functionalities and the concept of integrative data analysis. Apart from the powerful tools inherited by KNIME itself, one of the basic ideas behind KNIME is to integrate established and commonly used software (like the ImageJ framework for image processing), thus enabling to make use of the power of the KNIME data analytics after having processed the original input raw data (like bioimage raw data in case of image processing).$
 $
-```[Dr. Manuel Gunkel](http://congo.embl.de/hd-hub/dr-manuel-gunkel/)$
-[Open Coursebook](images/Online_Training/TEXTBOOK_deNBI-BioimageAnalysisWorkshop.pdf)$
-$
-``````Coursebook of Bioimage Analysis Course$
-$
-````OnlineMaterial`
-Introduction into KNIME image analysis for life scientists`This course material intends to provide a basic introduction into the KNIME (image) data analytics functionalities and the concept of integrative data analysis. Apart from the powerful tools inherited by KNIME itself, one of the basic ideas behind KNIME is to integrate established and commonly used software (like the ImageJ framework for image processing), thus enabling to make use of the power of the KNIME data analytics after having processed the original input raw data (like bioimage raw data in case of image processing).$
-$
-```[Dr. Manuel Gunkel](http://congo.embl.de/hd-hub/dr-manuel-gunkel/)$
+```[Dr. Manuel Gunkel](http://congo.embl.de/hd-hub/dr-manuel-gunkel/)<br/>$
 [Open Coursebook](images/Online_Training/TEXTBOOK_deNBI-BioimageAnalysisWorkshop.pdf)$
 $
 ``````Coursebook of Bioimage Analysis Course$
@@ -596,25 +300,7 @@ $
 ``[Open Slides](images/Online_Training/Herrmann_ChipSeq_2017.pdf)$
 $
 ``OnlineMaterial`
-Introduction to ChipSeq Analysis`This lecture introduces the basic concepts of ChIP-seq data analysis. Various approaches for quality control are discussed, as well as data normalization and peak calling.These slides are supplementary material from the video lecture $"An Introduction to ChipSeq Analysis$" by Dr. Carl Herrmann available [here](online-material/105-an-introduction-to-chip-seq-analysis)$
-$
-```Carl Herrmann (c.herrmann <at> dkfz-heidelberg <dot> de)$
-$
-``````Lecture Slides (2017)$
-$
-``[Open Slides](images/Online_Training/Herrmann_ChipSeq_2017.pdf)$
-$
-``OnlineMaterial`
-Introduction to Linux and Version Control`Linux is an operating system with a powerful command line interface that is widely used for biological data analysis and in server and cluster systems. A knowledge and understanding of how to interact effectively with the command line is essential when using many popular bioinformatics software packages, efficiently performing repetitive computational tasks, and working in high-performance computing cluster environments.$
-This course aims to teach basic commands and shell scripting to the life-scientists who wish to carry out repeated tasks to deal with biological data.$
-[Here](https://git.embl.de/grp-bio-it/linuxcommandline) you can find a copious collection of Course Materials.$
-$
-```[Frank Thommen](http://congo.embl.de/hd-hub/frank-thommen-2/)$
-$
-`````````[Open Course Material](https://git.embl.de/grp-bio-it/linuxcommandline)$
-$
-`OnlineMaterial`
-Introduction to Linux and Version Control`Linux is an operating system with a powerful command line interface that is widely used for biological data analysis and in server and cluster systems. A knowledge and understanding of how to interact effectively with the command line is essential when using many popular bioinformatics software packages, efficiently performing repetitive computational tasks, and working in high-performance computing cluster environments.$
+Introduction to Linux and Version Control`Linux is an operating system with a powerful command line interface that is widely used for biological data analysis and in server and cluster systems. A knowledge and understanding of how to interact effectively with the command line is essential when using many popular bioinformatics software packages, efficiently performing repetitive computational tasks, and working in high-performance computing cluster environments.<br/>$
 This course aims to teach basic commands and shell scripting to the life-scientists who wish to carry out repeated tasks to deal with biological data.$
 [Here](https://git.embl.de/grp-bio-it/linuxcommandline) you can find a copious collection of Course Materials.$
 $
@@ -632,60 +318,19 @@ $
 ``[Open Slides](images/Online_Training/Rauscher_GenomeRNAi_2017.pdf)$
 $
 ``OnlineMaterial`
-Phenotype Databases for Functional Genomics`These slides describe in detail two databases, GenomeRNAi and GenomeCRISPR, for phenotypes discovered in functional high‐throughput screens. The slides guide through the user interfaces of both database websites highlighting their functionality in the context of specific biological queries. They discuss the processes of both data curation and integration with external resources. Finally the identification of genetic interactions in cancer cells serves as an example of how database context can be mined to generate new biological findings.$
-$
-```[Benedikt Rauscher](http://congo.embl.de/hd-hub/benedikt-rauscher/)$
-$
-``````Lecture Slides (2017)$
-$
-``[Open Slides](images/Online_Training/Rauscher_GenomeRNAi_2017.pdf)$
-$
-``OnlineMaterial`
 Software Carpentry`The aim of Software Carpentry is to enable researchers to be more productive while$
 producing work of higher quality. This online material teaches the key skills$
 required to practise robust computational science effectively and efficiently, and$
 provide an overview of some of the tools and resources available for modern$
 computational biology.<br/>$
-$
 The material contains introductions for novices to the Unix Shell, Python and git.<br/>$
-$
 <br/>$
-$
 [Here](https://github.com/malvikasharan/2017-06-19-Software_Carpentry_Berlin) you can find a copious collection of course materials for the Software Carpentry workshop taken place in Berlin 2017-06-19/2017-06-20<br/>$
-$
 <br/>$
-$
 [Here](https://github.com/malvikasharan/2017-06-19-Software_Carpentry_Berlin) you can find a copious collection of course materials for the Software Carpentry workshop taken place in Würzburg 2017-09-04/2017-09-05$
 $
 ```[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)<br/>$
-$
 [Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)<br/>$
-$
-Toby Hodges (toby.hodges <at> embl <dot> de)$
-$
-``````Exercices, handouts, scripting data, solutions, Jupyter notebooks$
-$
-````OnlineMaterial`
-Software Carpentry`The aim of Software Carpentry is to enable researchers to be more productive while$
-producing work of higher quality. This online material teaches the key skills$
-required to practise robust computational science effectively and efficiently, and$
-provide an overview of some of the tools and resources available for modern$
-computational biology.<br/>$
-$
-The material contains introductions for novices to the Unix Shell, Python and git.<br/>$
-$
-<br/>$
-$
-[Here](https://github.com/malvikasharan/2017-06-19-Software_Carpentry_Berlin) you can find a copious collection of course materials for the Software Carpentry workshop taken place in Berlin 2017-06-19/2017-06-20<br/>$
-$
-<br/>$
-$
-[Here](https://github.com/malvikasharan/2017-06-19-Software_Carpentry_Berlin) you can find a copious collection of course materials for the Software Carpentry workshop taken place in Würzburg 2017-09-04/2017-09-05$
-$
-```[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)<br/>$
-$
-[Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)<br/>$
-$
 Toby Hodges (toby.hodges <at> embl <dot> de)$
 $
 ``````Exercices, handouts, scripting data, solutions, Jupyter notebooks$
@@ -694,30 +339,10 @@ $
 Workflow Management with CWL Bring Your Own Workflow`These slides theoretically explain how to make your data analysis workflows more portable and interoperable with the Common Workflow Language (CWL*)$
 $
 * “CWL is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high-performance computing (HPC) environments. CWL is designed to meet the needs of data-intensive science, such as Bioinformatics, Medical Imaging, Astronomy, Physics, and Chemistry. CWL is developed by an informal, multi-vendor working group consisting of organizations and individuals aiming to enable scientists to share data analysis workflows. The CWL project is on Github and we follow the Open-Stand.org principles for collaborative open standards development.”<br/>$
-$
 ([Source](http://www.commonwl.org/)).$
 $
 ```[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)<br/>$
-$
 [Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)<br/>$
-$
-Toby Hodges (toby.hodges <at> embl <dot> de)$
-$
-``````Lecture Slides (2017)$
-$
-``[Open Slides](https://goo.gl/mWPN1P)$
-$
-``OnlineMaterial`
-Workflow Management with CWL Bring Your Own Workflow`These slides theoretically explain how to make your data analysis workflows more portable and interoperable with the Common Workflow Language (CWL*)$
-$
-* “CWL is a specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high-performance computing (HPC) environments. CWL is designed to meet the needs of data-intensive science, such as Bioinformatics, Medical Imaging, Astronomy, Physics, and Chemistry. CWL is developed by an informal, multi-vendor working group consisting of organizations and individuals aiming to enable scientists to share data analysis workflows. The CWL project is on Github and we follow the Open-Stand.org principles for collaborative open standards development.”<br/>$
-$
-([Source](http://www.commonwl.org/)).$
-$
-```[Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)<br/>$
-$
-[Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)<br/>$
-$
 Toby Hodges (toby.hodges <at> embl <dot> de)$
 $
 ``````Lecture Slides (2017)$
@@ -732,37 +357,12 @@ $
 ``[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
 $
 ``````````SystematicPhenotyping`
-EBImage`R/Bioconductor package that provides general purpose functionality for the reading, writing, processing and analysis of images. In the context of high-throughput microscopy based cellular assays, EBImage offers tools to transform the images, segment cells and extract quantitative cellular descriptors.$
-$
-`[http://bioconductor.org/packages/release/bioc/html/EBImage.html](http://bioconductor.org/packages/release/bioc/html/EBImage.html)$
-$
-``[Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)$
-$
-``````````SystematicPhenotyping`
 Galaxy Image Analysis`Workflows and tools for analysis of microscopy image data and cellular phenotyping using Galaxy. Provision of expertise and support of projects requiring automatic image analysis.$
 $
 `[https://github.com/BMCV/galaxy-image-analysis](https://github.com/BMCV/galaxy-image-analysis)$
 $
 ``[PD Dr. Karl Rohr](http://congo.embl.de/hd-hub/pd-dr-karl-rohr/)<br/>$
 [Thomas Wollmann](http://congo.embl.de/hd-hub/thomas-wollmann-2/)$
-$
-``````````SystematicPhenotyping`
-Galaxy Image Analysis`Workflows and tools for analysis of microscopy image data and cellular phenotyping using Galaxy. Provision of expertise and support of projects requiring automatic image analysis.$
-$
-`[https://github.com/BMCV/galaxy-image-analysis](https://github.com/BMCV/galaxy-image-analysis)$
-$
-``[PD Dr. Karl Rohr](http://congo.embl.de/hd-hub/pd-dr-karl-rohr/)<br/>$
-[Thomas Wollmann](http://congo.embl.de/hd-hub/thomas-wollmann-2/)$
-$
-``````````SystematicPhenotyping`
-GenomeCRISPR`GenomeCRISPR is a database for high-throughput screening experiments performed by using the CRISPR/Cas9 system. A dynamic web interface guides users through the process of finding information about published CRISPR screens. The database holds detailed data about observed hits and phenotypes. Moreover, it provides knowledge about performance of individual single guide RNAs (sgRNAs) used under various experimental conditions.$
-$
-`[http://genomecrispr.dkfz.de](http://genomecrispr.dkfz.de)$
-$
-`Rauscher B, Heigwer F, Breinig M, Winter J, Boutros M. GenomeCRISPR - a database for high-throughput CRISPR/Cas9 screens. Nucleic Acids Res. 2017;45(D1):D679-D686.$
-$
-`Michael Boutros (m.boutros <at> dkfz <dot> de)<br/>$
-Ulrike Hardeland (u.hardeland <at> dkfz <dot> de)$
 $
 ``````````SystematicPhenotyping`
 GenomeCRISPR`GenomeCRISPR is a database for high-throughput screening experiments performed by using the CRISPR/Cas9 system. A dynamic web interface guides users through the process of finding information about published CRISPR screens. The database holds detailed data about observed hits and phenotypes. Moreover, it provides knowledge about performance of individual single guide RNAs (sgRNAs) used under various experimental conditions.$
@@ -785,25 +385,9 @@ $
 Ulrike Hardeland (u.hardeland <at> dkfz <dot> de)$
 $
 ``````````SystematicPhenotyping`
-GenomeRNAi`The GenomeRNAi database makes available RNAi phenotype data extracted from the literature, or submitted by data producers directly, for human and Drosophila. It also provides RNAi reagent information, along with an assessment as to their efficiency and specificity.$
-$
-`[http://www.genomernai.org/](http://www.genomernai.org/)$
-$
-`Schmidt EE, Pelz O, Buhlmann S, Kerr G, Horn T, Boutros M. GenomeRNAi: a database for cell-based and in vivo RNAi phenotypes, 2013 update. Nucleic Acids Res. 2013;41(Database issue):D1021-6.$
-$
-`Michael Boutros (m.boutros <at> dkfz <dot> de)<br/>$
-Ulrike Hardeland (u.hardeland <at> dkfz <dot> de)$
-$
-``````````SystematicPhenotyping`
 KNIME-Cellular phenotyping of microscope image data`This KNIME framework is a data mining platform including manifold libraries for image processing (based on Fiji/ImageJ) and data exploration. The platform provides access to workflows and pipelines for (large-scale) automated phenotype analysis.$
 $
-```Holger Erfle (holger.erfle <at> bioquant.uni-heidelberg <dot> de)$
-[Dr. Manuel Gunkel](http://congo.embl.de/hd-hub/dr-manuel-gunkel/)$
-$
-``````````SystematicPhenotyping`
-KNIME-Cellular phenotyping of microscope image data`This KNIME framework is a data mining platform including manifold libraries for image processing (based on Fiji/ImageJ) and data exploration. The platform provides access to workflows and pipelines for (large-scale) automated phenotype analysis.$
-$
-```Holger Erfle (holger.erfle <at> bioquant.uni-heidelberg <dot> de)$
+```Holger Erfle (holger.erfle <at> bioquant.uni-heidelberg <dot> de)<br/>$
 [Dr. Manuel Gunkel](http://congo.embl.de/hd-hub/dr-manuel-gunkel/)$
 $
 ``````````SystematicPhenotyping`

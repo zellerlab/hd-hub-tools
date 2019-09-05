@@ -5,6 +5,6 @@ DEXSeq is an extension of DESeq for the analysis of alternative exon usage. DESe
 [http://bioconductor.org/packages/DEXseq/](http://bioconductor.org/packages/DEXseq/)
 
 #### Contact
-Wolfgang Huber (wolfgang.huber <at> embl <dot> de)
+Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)
 

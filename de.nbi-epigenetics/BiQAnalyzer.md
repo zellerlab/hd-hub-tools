@@ -1,5 +1,4 @@
 # BiQAnalyzer
-
 __BiQ Analyzer__ is a software tool for easy visualization and quality control of DNA methylation data 
 from bisulfite sequencing.
 
