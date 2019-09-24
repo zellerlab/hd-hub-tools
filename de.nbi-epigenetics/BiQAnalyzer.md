@@ -17,5 +17,5 @@ __BiQ Analyzer: visualization and quality control for DNA methylation data from 
 
 #### Contact
 
-Christoph Bock (biq-analyzer <at> bioproject <dot> de)
+Christoph Bock (biq-analyzer (at) bioproject (dot) de)
 

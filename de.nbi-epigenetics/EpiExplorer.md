@@ -8,5 +8,5 @@ __EpiExplorer__ is a web tool that allows you to use large reference epigenome d
 Halachev, K., Bast, H., Albrecht, F., Lengauer, T., &amp; Bock, C. (2012). __EpiExplorer: live exploration and global analysis of large epigenomic datasets.__<em> Genome Biology</em>, 13(10), R96.
 
 #### Contact
-epiexplorer <at> mpi-inf.mpg <dot> de
+epiexplorer (at) mpi-inf.mpg (dot) de
 

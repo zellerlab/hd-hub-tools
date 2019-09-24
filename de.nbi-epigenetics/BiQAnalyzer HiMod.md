@@ -8,5 +8,5 @@ __BiQ Analyzer HiMod__ is the major upgrade of the popular [BiQAnalyzer HT](http
 Lutsik P., Feuerbach L., Arand J., Lengauer T., Walter J. and Bock C (2011) __BiQ Analyzer HT: locus-specific analysis of DNA methylation by high-throughput bisulfite sequencing.__ <i>Nucleic Acids Research</i> ([Full text](http://nar.oxfordjournals.org/content/early/2011/05/11/nar.gkr312.full)).
 
 #### Contact
-Pavlo Lutsik (plutsik <at> mpi-inf.mpg <dot> de)
+Pavlo Lutsik (plutsik (at) mpi-inf.mpg (dot) de)
 

@@ -5,5 +5,5 @@ Independent hypothesis weighting (IHW) is a multiple testing procedure that incr
 [http://bioconductor.org/packages/release/bioc/html/IHW.html](http://bioconductor.org/packages/release/bioc/html/IHW.html)
 
 #### Contact
-Wolfgang Huber (whuber <at> embl <dot> de)
+Wolfgang Huber (whuber (at) embl (dot) de)
 

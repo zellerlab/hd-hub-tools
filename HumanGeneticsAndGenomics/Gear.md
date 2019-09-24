@@ -5,5 +5,5 @@ Gear is a genome analysis web server hosting applications for molecular biologis
 [https://gear.embl.de](https://gear.embl.de/)
 
 #### Contact
-rausch <at> embl <dot> de
+rausch (at) embl (dot) de
 

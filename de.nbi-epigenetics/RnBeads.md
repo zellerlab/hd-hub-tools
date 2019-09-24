@@ -8,5 +8,5 @@ R package for comprehensive analysis of DNA methylation data obtained by Infiniu
 Assenov, Y., Müller, F., Lutsik, P., Walter, J., Lengauer, T., &amp; Bock, C. (2014).__ Comprehensive analysis of DNA methylation data with RnBeads. __<em>Nature Methods</em>, 11(11), 1138–1140.
 
 #### Contact
-rnbeads <at> mpi-inf.mpg <dot> de
+rnbeads (at) mpi-inf.mpg (dot) de
 

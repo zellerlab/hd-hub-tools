@@ -5,7 +5,7 @@ Delly is a structural variant detection method for the discovery of germline and
 [https://github.com/dellytools/delly](https://github.com/dellytools/delly)
 
 #### Contact
-rausch <at> embl <dot> de
+rausch (at) embl (dot) de
 
 #### Funding
 Neither development nor maintenance funded by de.NBI.

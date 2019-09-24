@@ -5,7 +5,7 @@ Alfred is a comprehensive NGS alignment quality control method that supports com
 [https://github.com/tobiasrausch/alfred](https://github.com/tobiasrausch/alfred)
 
 #### Contact
-rausch <at> embl <dot> de
+rausch (at) embl (dot) de
 
 #### Funding
 Neither development nor maintenance funded by de.NBI.

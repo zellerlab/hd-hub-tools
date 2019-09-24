@@ -8,5 +8,5 @@ The __DeepBlue Epigenomic Data Server__ provides a data access hub for large col
 Albrecht, F., List, M., Bock, C., &amp; Lengauer, T. (2016). __DeepBlue epigenomic data server: programmatic data retrieval and analysis of epigenome region sets.__ <em>Nucleic Acids Research.</em>
 
 #### Contact
-deepblue <at> mpi-inf.mpg <dot> de
+deepblue (at) mpi-inf.mpg (dot) de
 

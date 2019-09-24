@@ -9,5 +9,5 @@ __Integration of genomics and histology revises diagnosis and enables effective 
 __Mutant KIT as Imatinib-Sensitive Target in Metastatic Sinonasal Carcinoma.__ (2016) Dieter SM, Heining C, Agaimy A, Huebschmann D, Bonekamp D, Hutter B, Ehrenberg KR, Fröhlich M, Schlesner M, Scholl C, Schlemmer HP, Wolf S, Mavratzas A, Jung CS, Gröschel S, Kalle CV, Eils R, Brors B, Penzel R, Kriegsmann M, Reuss DE, Schirmacher P, Ann Oncol, pii: mdw446.
 
 #### Contact
-Daniel Huebschmann (d.huebschmann <at> dkfz <dot> de)
+Daniel Huebschmann (d.huebschmann (at) dkfz (dot) de)
 

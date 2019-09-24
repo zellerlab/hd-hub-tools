@@ -5,6 +5,6 @@ The bioconductor authoring tool links the journal’s manuscript management syst
 [https://bioconductor.org/packages/BiocWorkflowTools/](https://bioconductor.org/packages/BiocWorkflowTools/)
 
 #### Contact
-Wolfgang Huber (wolfgang.huber <at> embl <dot> de)<br/>
+Wolfgang Huber (wolfgang.huber (at) embl (dot) de)<br/>
 [Mike Smith](http://congo.embl.de/hd-hub/mike-smith/)
 

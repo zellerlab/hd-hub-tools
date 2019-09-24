@@ -7,7 +7,7 @@ These slides theoretically explain how to make your data analysis workflows more
 #### Contact
 [Dr. Georg Zeller](http://congo.embl.de/hd-hub/dr-georg-zeller/)<br/>
 [Malvika Sharan](http://congo.embl.de/hd-hub/malvika-sharan/)<br/>
-Toby Hodges (toby.hodges <at> embl <dot> de)
+Toby Hodges (toby.hodges (at) embl (dot) de)
 
 #### Type of Material
 Lecture Slides (2017)

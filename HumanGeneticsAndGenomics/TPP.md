@@ -5,5 +5,5 @@ Detecting the binding partners of a drug is one of the biggest challenges in dru
 [http://bioconductor.org/packages/release/bioc/html/TPP.html](http://bioconductor.org/packages/release/bioc/html/TPP.html)
 
 #### Contact
-Wolfgang Huber (whuber <at> embl <dot> de)
+Wolfgang Huber (whuber (at) embl (dot) de)
 

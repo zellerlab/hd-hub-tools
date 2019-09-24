@@ -8,5 +8,5 @@ __BiQAnalyzer HT__ is the major upgrade of the popular [BiQAnalyzer](http://biq-
 Becker D., Lutsik P., Ebert P., Lengauer T. and Walter J. (2014) __BiQ Analyzer HiMod: an interactive software tool for high-throughput locus-specific analysis of 5-methylcytosine and its oxidized derivatives.__ Nucleic Acids Research [Full text](http://nar.oxfordjournals.org/content/early/2014/05/29/nar.gku457.long).
 
 #### Contact
-Pavlo Lutsik (plutsik <at> mpi-inf.mpg <dot> de)
+Pavlo Lutsik (plutsik (at) mpi-inf.mpg (dot) de)
 

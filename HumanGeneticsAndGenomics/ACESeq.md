@@ -3,5 +3,5 @@ ACEseq is a method to detect somatic copy number variations from matching tumor/
 
 #### Contact
 [Dr. Matthias Schlesner](http://congo.embl.de/hd-hub/dr-matthias-schlesner/)<br/>
-Kortine Kleinheinz (k.kleinheinz <at> dkfz <dot> de)
+Kortine Kleinheinz (k.kleinheinz (at) dkfz (dot) de)
 
